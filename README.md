@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://zuhranahmed.github.io/ClipboardLandingPage/">
+    <a href="https://zuhranahmed.github.io/FyloLandingPage/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/zuhranahmed/ClipboardLandingPage.git">
+    <a href="https://github.com/zuhranahmed/FyloLandingPage.git">
       Code
     </a>
   </h3>
